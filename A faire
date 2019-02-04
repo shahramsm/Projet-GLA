@@ -1,0 +1,31 @@
+Commencer par fonctionnalités du visiteur :
+-Changer noir par une autre couleur + mettre les bons onglets -> Faire footer + padding coté de la page
+-Informations générales -> Bien les afficher
+-Recherche -> Bien les afficher
+
+-Connexion/Deconnexion (+ Maintenir session et savoir si le compte est adhérent ou gestionnaire) => FAIT
+
+Partie Adhérent :
+-Réservation
+-Emprunt/date de retour
+-Solde
+-Compte (espace privé avec ses informations perso.)
+
+
+Partie Gestionnaire :
+-Valider retour ressource et ajout d'un solde et perte d'une ressource.  /Fait
+-Gestion des informations générales (Création/modification/suppression)
+-Gestion des ressources (Création/modification/suppression/ajout quantité)
+-Gestion des utilisateurs (Création/modification/suppression/rendre défaillant)
+-Gestion des flux (Estimation des couts de perte des ressources pour une période donnée.
+                   Estimation des pertes engendrées par ressources.
+                   Si une ressource est trop demandée, achat de ressources ou réduction du délai d'emprunt.)
+                   
+                   
+ Voir contraintes économiques
+ 
+ 
+ Voir cahier-des-charges-groupe-F pour plus d'infos
+ Voir Diagrammes de séquence pour ne pas oublier d'éventuelles vérifications à faire
+ 
+ Manque titre dans table livre

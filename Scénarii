@@ -1,0 +1,23 @@
+Un visiteur recherche un ouvrage et lit sa présentation
+Connexion d'un utilisateur réussie
+Connexion d'un utilisateur ratée
+Un adherent réserve un ouvrage
+Un adherent réserve un ouvrage mais n'a pas les droit pour(trop d'emprunts)
+Un adhérent réserve un ouvrage qui n'a aucun exemplaire disponible
+Un adhérent change ses données personnelles
+Un gestionnaire enregistre un retour
+Un gestionnaire crée un nouvel article
+Un gestionnaire change un article
+Un gestionnaire supprime un article
+Un gestionnaire crée une nouvelle ressource
+Un gestionnaire modifie une ressource
+Un gestionnaire déréférence une ressource
+Un gestionnaire enregistre une perte
+Un gestionnaire crée un nouvel adhérent
+Un gestionnaire modifie les données personnelles d'un adhérent
+Un gestionnaire rend un adhérent "défaillant"
+Un gestionnaire crée une estimation des pertes liés à une ressource //Si c'est dans le cahier des charges
+Un gestionnaire commande de nouvelles ressources //Il rentre sur une page le nombre de ressources achetées
+Déconnexion d'un utilisateur ?
+
+
